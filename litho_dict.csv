@@ -6,9 +6,9 @@ srt,sorted
 Mic,micaceous
 sbang,subangular
 m,medium
-f,fine grained
+f,fine
 lt,light
-vf,very fine grained
+vf,very fine
 Cl,clay (-ey)
 W,well
 Lam,lamina (-tions  -ated)
@@ -28,6 +28,7 @@ w-c,with coal
 Frac,fractured
 decr,decreasing
 w-cl,with clay
+w-ltl,with little
 sbrndd,subrounded
 fe,iron
 crs,coarse grained
@@ -141,7 +142,7 @@ olive,olive
 fgr,fine grained
 thin,thin
 ferr,ferruginous
-Biot,Biotite
+Biot, Biotite
 thn,thin
 hom,homogeneous
 Biost,biostrom (-al)
@@ -1229,3 +1230,5 @@ srtvw,sorted very well
 grsbangfr,grained subangular fair
 "
 ltl",little
+\.,.
+\-,-
