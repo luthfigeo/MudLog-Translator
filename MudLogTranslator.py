@@ -25,7 +25,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def homepage():
-    return render_template('../index.html')
+    return render_template('index.html')
 
 @app.route('/', methods=['GET','POST'])
 def mudlog_translator():
@@ -34,7 +34,7 @@ def mudlog_translator():
         lithodesc = request.form.get('lithology_description')
         print (translate(lithodesc,litholist))
         result = (translate(lithodesc,litholist))
-    return render_template('../index.html', result = result)
+    return render_template('index.html', result = result)
 
 sample = "Sstone.bn Lt-gry.vf-gr.sbrnd.Fr-cmt.M-srt.ltl-Mtrx.hd. w ltl Fe min mtrx a.a"
 
