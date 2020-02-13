@@ -1,7 +1,6 @@
 Gr,grained
 gry,grey
 a.a.,as above
-Sst,Sandstone
 srt,sorted
 Mic,micaceous
 sbang,subangular
@@ -20,7 +19,7 @@ fr,fair
 Calc,calcareous
 w/,with/
 Ltl,little
-p,poorly
+p,poor
 w/o,without
 VW-cmt,very well cemented
 incr,increasing
@@ -45,7 +44,7 @@ yelsh,yellow (ish)
 Sd,Sandstone
 mlt,medium light
 vcrs,very coarse grained
-vp,very poorly
+vp,very poor
 w-calc,with calcareous
 Sltst,Siltstone
 arg,argillaceous
@@ -153,7 +152,7 @@ clsd,closed
 silty,silty
 gl,glauconite
 sndy,sandy
-poor,poorly
+poor,poor
 sbrnnd,subrounded
 lst,Limestone
 po,porosity
@@ -265,7 +264,7 @@ G,gas
 plug,plug
 occ,occasional
 clay,Claystone
-Sh,shaly
+Sh,shale
 mott,mottled
 rubble,rubble
 Bdg,bedding
@@ -304,7 +303,7 @@ lams,lamina (-tions  -ated)
 ind,indurated
 flds,feldspar (-athic)
 Mat,material
-shaly,shaly
+Sh,shale
 fri,friable
 Cht,chert (-y)
 h,hematite
@@ -729,7 +728,7 @@ Flo,flora
 Fluor,fluorescence (-ent)
 fol,foliated
 Ft,foot
-Foram,foraminifer  foraminiferal
+Foram,foraminifer
 freq,frequent
 frs,fresh
 fros,frosted
@@ -967,7 +966,7 @@ fen,fenestra (-al)
 fnly,finely
 flk,flake  flaky
 fluor,fluorescence (-ent)
-foram,foraminifer  foraminiferal
+foram,foraminifer
 foss,fossil (-iferous)
 frac,fractured
 frag,fragment(-al)
@@ -1053,7 +1052,7 @@ s & p,salt and pepper
 sat,saturation (-ated)
 sch,schist (-ose)
 sed,sediment (-ary)
-sh,shaly
+sh,shale
 sid,siderite (-itic)
 sil,silica (-iceous)
 sl,slate (-y)
@@ -1232,3 +1231,48 @@ grsbangfr,grained subangular fair
 ltl",little
 \.,.
 \-,-
+fria,friable
+"i/p,","in part,"
+tr,trace
+nos,no oil show
+offwh,off white
+ltbrn,light brown
+mdhd,medium hard
+wkst,wackestone
+pkst,packstone
+sbblky,sub blocky
+grnshgy,greenish grey
+clst,claystone
+srtd,sorted
+mat,matrix
+vsoft,very soft
+solub,soluble
+dkgy,dark grey
+transp,transparent
+sbfiss,sub fissile
+brnshgy,brownish grey
+sblky,sub blocky
+splty,sub platy
+sbplty,sub platy
+fragm,fragment
+chl,chlorite
+pr,poor
+"a/a,",as above
+sst,sandstone
+n,non
+ls,limestone
+mdst,mudstone
+gysh,greyish
+mdstn,mudstone
+grnsgy,greenish grey
+mhd,medium hard
+a/a,as above
+lstr,luster
+grnstn,grainstone
+clclt,calcilutite
+clcar,calcarenite
+predom,predominant (-ly)
+mlky,milky
+dkbrn,dark brown
+vhd,very hard
+argill,argillaceous
